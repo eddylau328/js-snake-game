@@ -1,0 +1,18 @@
+.block {
+  width: 5px;
+  height: 5px;
+  border: 1px solid #777;
+}
+.apple {
+  background-color: red;
+  z-index: 0;
+}
+.snakeHead {
+  background-color: blue;
+  z-index: 1;
+}
+
+.snakeBody {
+  background-color: aqua;
+  z-index: 1;
+}
